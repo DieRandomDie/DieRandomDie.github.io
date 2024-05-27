@@ -1,0 +1,21 @@
+body {
+    background-color: dimgray;
+}
+.current .input-group-text {
+    min-width: 40%;
+}
+.goal .input-group-text {
+    min-width: 60%;
+}
+.chant-settings .input-group-text, .fest-settings .input-group-text {
+    min-width: 70%;
+}
+#total .input-group-text {
+    min-width: 35%;
+}
+#enchants .input-group-text, #festivals .input-group-text, #percentage .input-group-text {
+    min-width: 40%;
+}
+footer {
+    background: grey;
+}
